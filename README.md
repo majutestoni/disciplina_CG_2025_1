@@ -33,8 +33,6 @@ Vocês irão notar que quando preciso fazer algum rabisco eu uso o Draw.io. Para
 
 ## Noturno: [AVA3 Noturno] ou [AVA3 Noturno Plano]  
 
-## [AVA3 Matutino Plano] ou [AVA3 Noturno Plano]  
-
 ## [Cronograma]  
 
 ## [Unidade1](Unidade1 "Unidade 1")  
