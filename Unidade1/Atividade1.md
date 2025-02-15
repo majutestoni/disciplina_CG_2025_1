@@ -3,7 +3,7 @@
 [AVA3 Matutino Equipes]: <https://ava3.furb.br/mod/forum/view.php?id=1099470> "AVA3 Equipes" 
 [AVA3 Noturno Equipes]: <https://ava3.furb.br/mod/forum/view.php?id=1099482> "AVA3 Equipes"  
 
-Os assuntos serão sorteados pelo professor e enviados para cada equipe, então não esqueça de definir sua equipe no AVA3 ([AVA3 Matutino Equipes] ou[AVA3 Noturno Equipes]).
+Os assuntos serão sorteados pelo professor e enviados para cada equipe, então não esqueça de definir sua equipe no AVA3 ([AVA3 Matutino Equipes] ou [AVA3 Noturno Equipes]).
 
 O que deve ser feito:
 
