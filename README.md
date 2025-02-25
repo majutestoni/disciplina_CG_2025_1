@@ -1,5 +1,6 @@
 # Disciplina de Computação Gráfica  
 
+[Apresentação do Professor]: <https://github.com/dalton-reis/dalton-reis> "Apresentação do Professor"  
 [AVA3 Matutino]: <https://ava3.furb.br/course/view.php?id=47758&section=0> "AVA3" 
 [AVA3 Matutino Plano]: <https://ava3.furb.br/course/view.php?id=47758&section=1> "Plano de Ensino" 
 [AVA3 Matutino Equipes]: <https://ava3.furb.br/mod/forum/view.php?id=1099470> "AVA3 Equipes" 
@@ -10,6 +11,8 @@
 [Cronograma]: <./cronograma.md> "Cronograma"  
 
 Material da disciplina de Computação Gráfica  
+
+## [Apresentação do Professor]
 
 ## Jogo - Play Grand Gate
 
