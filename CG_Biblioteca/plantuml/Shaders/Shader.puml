@@ -1,4 +1,4 @@
-@startuml
+@startuml Shader
 class Shader {
     + <<readonly>> Handle : int
     + Shader(vertPath:string, fragPath:string)
