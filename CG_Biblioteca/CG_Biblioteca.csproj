@@ -7,8 +7,8 @@
       CG_OpenGL;
       CG_Gizmo;
       CG_Debug;
-      CG_BBox;          <!--TODO: o desenho da BBox ficou na biblioteca e não tem como remover só a diritava no projeto para não desenhar a BBox-->
-      CG_Privado;
+      CG_BBox;          <!--TODO: o desenho da BBox ficou na biblioteca e não tem como remover só a diretiva no projeto para não desenhar a BBox-->
+      <!-- CG_Privado; -->
       </DefineConstants>
   </PropertyGroup>
 
