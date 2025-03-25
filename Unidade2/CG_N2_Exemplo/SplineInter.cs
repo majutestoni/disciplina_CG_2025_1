@@ -1,1 +1,0 @@
-/Users/daltonreis/GitHub/disciplinas/CG/disciplina_CG_Privado/Unidade2/_._CG_N2/SplineInter.cs
