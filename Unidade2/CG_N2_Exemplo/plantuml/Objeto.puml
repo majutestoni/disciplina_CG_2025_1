@@ -1,4 +1,4 @@
-@startuml
+@startuml Objeto
 class Objeto {
     + PrimitivaTamanho : float <<get>> <<set>>
     + PontosListaTamanho : int <<get>>

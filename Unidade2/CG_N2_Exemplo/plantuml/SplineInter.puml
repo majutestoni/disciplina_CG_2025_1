@@ -1,4 +1,4 @@
-@startuml
+@startuml SplineInter
 class SplineInter {
     + SplineQtdPto(inc:int) : void
     + SplineInter(_paiRef:Objeto, _rotulo:char)

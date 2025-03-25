@@ -1,4 +1,4 @@
-@startuml
+@startuml Ponto4D
 class Ponto4D {
     + Ponto4D(x:double, y:double, z:double, w:double)
     + Ponto4D(pto:Ponto4D)

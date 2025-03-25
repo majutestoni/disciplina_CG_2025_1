@@ -1,4 +1,4 @@
-@startuml
+@startuml BBox
 class BBox {
     + BBox()
     + Atualizar(matriz:Transformacao4D, pontosLista:List<Ponto4D>) : void

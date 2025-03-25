@@ -1,4 +1,4 @@
-@startuml
+@startuml Circulo
 class Circulo {
     + Circulo(_paiRef:Objeto, _rotulo:char, _raio:double)
     + Circulo(_paiRef:Objeto, _rotulo:char, _raio:double, ptoDeslocamento:Ponto4D)

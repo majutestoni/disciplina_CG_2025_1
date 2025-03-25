@@ -1,4 +1,4 @@
-@startuml
+@startuml Transformacao4D
 class Transformacao4D {
     {static} + <<readonly>> DEG_TO_RAD : double = 0.017453292519943295769236907684886
     + Transformacao4D()

@@ -1,4 +1,4 @@
-@startuml
+@startuml Utilitario
 abstract class Utilitario {
     + {static} CharProximo(atual:char) : char
     + {static} TeclaUpperConsole(msg:string, Control:bool, Shift:bool) : char

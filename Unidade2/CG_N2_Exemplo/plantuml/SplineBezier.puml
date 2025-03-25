@@ -1,4 +1,4 @@
-@startuml
+@startuml SplineBezier
 class SplineBezier {
     + SplineQtdPto(inc:int) : void
     + SplineBezier(_paiRef:Objeto, _rotulo:char)
