@@ -14,6 +14,20 @@ Lembretes:
   - [atividade 4](#4-spline) na pasta **CG_N2_4**  
   - [atividade 5](#5-bbox-dos-círculos) na pasta **CG_N2_5**  
 
+## Inicio
+
+Uma maneira de utilizar o exemplo **[CG_N2_Exemplo]** para criar as atividades dessa unidade seria:
+
+1) "baixe" (melhor clonar o repositório) o repositório da disciplina (imagem da esquerda) e o repositório da sua equipe (imagem da direita). Copie/cole a pasta CG_Biblioteca, mas cuide para ser no lugar certo.  
+![Atividade2_inicioA](Atividade2_inicioA.png)  
+2) Agora copie/cole a pasta CG_N2_Exemplo, mas novamente *cuide* para ser no lugar certo.  
+![Atividade2_inicioB](Atividade2_inicioB.png)  
+3) E, por fim, copie/cole TODO o conteúdo da pasta CG_N2_Exemplo para a pasta do exercício em si.  
+![Atividade2_inicioC](Atividade2_inicioC.png)  
+4) Antes de inciar a atividade teste para verificar se deu tudo certo, abrindo o arquivo CG_N2_Exemplo.code-workspace no VSCode, e executando o projeto.  
+
+Observe que no projeto CG_N2_Exemplo tem arquivos a mais do que vai ser usado em cada exercício, se quiser esses arquivos podem ser deletados.  
+
 ## 1. Círculo no centro do SRU  
 
 Implemente uma aplicação para desenhar um círculo no centro do Sistema de Referência do Universo (SRU), com raio de valor 0.5. Utilize 72 pontos (com um tamanho do ponto de 5) simetricamente distribuídos sobre o perímetro do círculo, de forma que o resultado final seja o mais parecido com o código: [CG_N2_1_win-x64.zip](./CG_N2_1_win-x64.zip "CG_N2_1_win-x64.zip"). Neste caso crie uma nova classe com o nome ```Circulo``` em ```Circulo.cs```, e usem como base as classes: [Ponto.cs](../CG_N2_Exemplo/Ponto.cs), [SegReta.cs](../CG_N2_Exemplo/SegReta.cs), [Retangulo.cs](../CG_N2_Exemplo/Retangulo.cs) e [Poligono.cs](../CG_N2_Exemplo/Poligono.cs).  
