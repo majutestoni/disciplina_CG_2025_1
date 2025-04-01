@@ -1,5 +1,7 @@
 @startuml SrPalito
 class SrPalito {
+    - angulo : double = 45
+    - raio : double = 0.5
     + SrPalito(_paiRef:Objeto, _rotulo:char)
     + Atualizar() : void
     + AtualizarPe(peInc:double) : void
@@ -8,4 +10,6 @@ class SrPalito {
     + <<override>> ToString() : string
 }
 Objeto <|-- SrPalito
+SrPalito o-> "ptoPe" Ponto4D
+SrPalito o-> "ptoCabeca" Ponto4D
 @enduml
