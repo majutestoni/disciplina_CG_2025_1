@@ -89,7 +89,7 @@ Observação: as transformações são sempre em relação à origem.
 >
 > As transformações de translação, escala e rotação utilizam as operações de soma, multiplicação e seno/cosseno, respectivamente. Mas não são operações aritméticas, mas sim operações geométricas. E no caso de transformações geométricas homogêneas se utiliza **matrizes** para fazer estas operações. A matriz tem a dimensão do espaço gráfico $(x,y,z)$ mais um, onde este mais um é o espaço homogêneo. E para se fazer transformação (translação, escala e rotação) se **multiplica** um ponto por esta matriz.  
 
-<https://github.com/dalton-reis/CG_2024_1/blob/7c4dd0e0890a5f1aa31146d2ad04306c494ab664/CG_Biblioteca/Transformacao4D.cs#L24-L29>
+<https://github.com/dalton-reis/disciplina_CG_2025_1/blob/main/CG_Biblioteca/Transformacao4D.cs#L11-L15>
 
 #### Matriz: propriedades
 
