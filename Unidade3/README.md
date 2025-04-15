@@ -13,8 +13,6 @@ Objetivo: demonstrar conhecimento no desenvolvimento de sistemas com interface g
 
 ![aulaRabiscos](aulaRabiscos.drawio.svg)
 
-## [VisEdu-CG]  
-
 ## Material  
 
 ### Algoritmo de Seleção
@@ -28,6 +26,8 @@ Objetivo: demonstrar conhecimento no desenvolvimento de sistemas com interface g
 ![alt text](imgs/ScanLine_07.png)  
 ![alt text](imgs/ScanLine_08.png)  
 ![alt text](imgs/ScanLine_09.png)  
+
+### [VisEdu-CG]  
 
 ### Grafo de Cena
 
