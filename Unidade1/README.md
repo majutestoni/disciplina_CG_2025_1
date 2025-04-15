@@ -4,11 +4,16 @@ Introdução a sistemas gráficos: histórico e aplicações, conceitos gerais, 
 
 Objetivo: identificar os conceitos gerais da Computação Gráfica e as principais áreas de atuação.  
 
+## [Atividades - Aula](Atividade1.md "Atividades - Aula")  
+
+## Rabiscos
+
+![aulaRabiscos](aulaRabiscos.drawio.svg)
+
 ## Material  
 
 [cg-slides_u1.pdf](./cg-slides_u1.pdf "cg-slides_u1.pdf")  
 [Exemplos](exemplos "Exemplos")  
-[Atividades - Aula](Atividade1.md "Atividades - Aula")  
 
 <!-- 
 TODO:  
@@ -49,7 +54,3 @@ TODO: arrumar as fontes bibliográficas
 TODO: arrumar as fontes bibliográficas  
 ## Principais Referências Bibliográficas​
 -->
-
-## Rabiscos
-
-![aulaRabiscos](aulaRabiscos.drawio.svg)

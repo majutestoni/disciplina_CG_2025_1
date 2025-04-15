@@ -5,14 +5,13 @@ Interface, Transformações 2D e Seleção, Programação orientada a eventos. E
 Objetivo: demonstrar conhecimento no desenvolvimento de sistemas com interface gráfica com o usuário. Interpretar, especificar e desenvolver aplicações simples com transformações geométricas.  
 (aulaRabiscos.drawio.svg)
 
-## [Atividades - Aula](./Atividade3.md "Atividades - Aula")  
-
-<!--[ScanLine](./ScanLine.pdf)  -->
-<!--[TransformacoesGeometricas](./TransformacoesGeometricas.pdf)  -->
+## [Atividades - Aula](Atividade3.md "Atividades - Aula")  
 
 ## Rabiscos
 
 ![aulaRabiscos](aulaRabiscos.drawio.svg)
+
+## [VisEdu-CG]: <https://gcgfurb.github.io/yoda/> "VisEdu-CG"  
 
 ## Material  
 
@@ -423,12 +422,12 @@ Observe que o resultado final é diferente, ou seja, a ordem das transformaçõe
 
 A multiplicação de diferentes matrizes de transformação, entre si, geram a concatenação de todas as modificações em uma única estrutura, que é chamada de matriz de modelação-visualização. Ela é responsável por determinar dentro de um contexto, as posições e modificações dos objetos 3D de uma cena.  
 
+----------
+
 ## ⏭ [Unidade 4)](../Unidade4/README.md "Unidade 4")  
 
 [^1]: AZEVEDO, Eduardo; CONCI, Aura; VASCONCELOS, Cristina. Computação Gráfica: Teoria e Prática: Geração de Imagens. 1. ed. rev. Rio de Janeiro: Alta Books, 2022.  
 [^2]: SILVA, Romano J. M. da; RAPOSO, Alberto B.; GATTAS, Marcelo. Grafo de Cena e Realidade Virtual. Rio de Janeiro: PUC, 2004. Disponível em: <https://web.tecgraf.puc-rio.br/~abraposo/INF1366/2007/02_GrafoDeCena_texto.pdf>. Acesso em: 27 nov. 2023.  
-
-[VisEdu-CG]: <https://gcgfurb.github.io/yoda/> "VisEdu-CG"  
 
 <!--
 ## Download
@@ -527,3 +526,5 @@ Já, na Classe Objeto.cs, um exemplo de método para rotação em torno de um po
 
 ----------
 -->
+<!--[ScanLine](./ScanLine.pdf)  -->
+<!--[TransformacoesGeometricas](./TransformacoesGeometricas.pdf)  -->
