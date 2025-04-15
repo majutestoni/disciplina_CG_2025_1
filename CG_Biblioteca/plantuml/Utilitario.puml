@@ -1,5 +1,5 @@
 @startuml Utilitario
-abstract class Utilitario {
+class Utilitario <<static>> {
     + {static} CharProximo(atual:char) : char
     + {static} TeclaUpperConsole(msg:string, Control:bool, Shift:bool) : char
     + {static} NDC_TelaSRU(largura:int, altura:int, mousePosition:Ponto4D) : Ponto4D

@@ -2,7 +2,7 @@
 class Transformacao4D {
     {static} + <<readonly>> DEG_TO_RAD : double = 0.017453292519943295769236907684886
     + Transformacao4D()
-    + ObterDadosOpenTK() : Matrix4
+    + Inversa() : void
     + AtribuirIdentidade() : void
     + AtribuirTranslacao(tx:double, ty:double, tz:double) : void
     + AtribuirEscala(sX:double, sY:double, sZ:double) : void
@@ -15,6 +15,5 @@ class Transformacao4D {
     + AtribuirElemento(index:int, value:double) : void
     + ObterDados() : double[]
     + AtribuirDados(data:double[]) : void
-    + <<override>> ToString() : string
 }
 @enduml
