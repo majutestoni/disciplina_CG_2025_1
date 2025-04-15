@@ -27,7 +27,11 @@ Objetivo: demonstrar conhecimento no desenvolvimento de sistemas com interface g
 ![alt text](imgs/ScanLine_08.png)  
 ![alt text](imgs/ScanLine_09.png)  
 
+----------
+
 ### [VisEdu-CG]  
+
+----------
 
 ### Grafo de Cena
 
