@@ -10,6 +10,10 @@ Objetivo: demonstrar conhecimento no desenvolvimento de sistemas com interface g
 <!--[ScanLine](./ScanLine.pdf)  -->
 <!--[TransformacoesGeometricas](./TransformacoesGeometricas.pdf)  -->
 
+## Rabiscos
+
+![aulaRabiscos](aulaRabiscos.drawio.svg)
+
 ## Material  
 
 ### Algoritmo de Seleção
@@ -418,10 +422,6 @@ Observe que o resultado final é diferente, ou seja, a ordem das transformaçõe
 - translação inversa da origem para o ponto que se fixou a transformação.  
 
 A multiplicação de diferentes matrizes de transformação, entre si, geram a concatenação de todas as modificações em uma única estrutura, que é chamada de matriz de modelação-visualização. Ela é responsável por determinar dentro de um contexto, as posições e modificações dos objetos 3D de uma cena.  
-
-## Rabiscos
-
-![aulaRabiscos](aulaRabiscos.drawio.svg)  
 
 ## ⏭ [Unidade 4)](../Unidade4/README.md "Unidade 4")  
 
