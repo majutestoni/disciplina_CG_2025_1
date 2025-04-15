@@ -1,5 +1,7 @@
 # Computação Gráfica - Unidade 3  
 
+[VisEdu-CG]: <https://gcgfurb.github.io/yoda/> "VisEdu-CG"  
+
 Interface, Transformações 2D e Seleção, Programação orientada a eventos. Elementos de interface, Eventos e atributos de elementos de interface. Funções callback (teclado e mouse). Transformações de sistemas de coordenadas Transformações geométricas 2D, Algoritmos de seleção, Boundaring Box.  
 
 Objetivo: demonstrar conhecimento no desenvolvimento de sistemas com interface gráfica com o usuário. Interpretar, especificar e desenvolver aplicações simples com transformações geométricas.  
@@ -11,7 +13,7 @@ Objetivo: demonstrar conhecimento no desenvolvimento de sistemas com interface g
 
 ![aulaRabiscos](aulaRabiscos.drawio.svg)
 
-## [VisEdu-CG](https://gcgfurb.github.io/yoda/ "VisEdu-CG")  
+## [VisEdu-CG]  
 
 ## Material  
 
@@ -26,8 +28,6 @@ Objetivo: demonstrar conhecimento no desenvolvimento de sistemas com interface g
 ![alt text](imgs/ScanLine_07.png)  
 ![alt text](imgs/ScanLine_08.png)  
 ![alt text](imgs/ScanLine_09.png)  
-
-### [VisEdu-CG]
 
 ### Grafo de Cena
 
