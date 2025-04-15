@@ -11,7 +11,7 @@ Objetivo: demonstrar conhecimento no desenvolvimento de sistemas com interface g
 
 ![aulaRabiscos](aulaRabiscos.drawio.svg)
 
-## [VisEdu-CG](: <)https://gcgfurb.github.io/yoda/> "VisEdu-CG")  
+## [VisEdu-CG](https://gcgfurb.github.io/yoda/> "VisEdu-CG")  
 
 ## Material  
 
