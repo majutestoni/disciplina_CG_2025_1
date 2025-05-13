@@ -2,10 +2,9 @@
 
 ## Atividade Individual
 
-\[peso: 2,0] Esta atividade é para ser desenvolvida individualmente pelo aluno, no caso, não é em equipe.  
+\[peso: 2,0] Esta atividade é para ser desenvolvida individualmente pelo aluno, no caso, não é em equipe. Essa atividade serve para reforçar/praticar os conceitos relacionados a Unidade 4.  
 
-Cada aluno deve acessar o questionário: <https://forms.gle/YS8UoT5ayATEriE38>  
-e desenvolver a atividade usando: <https://gcgfurb.github.io/yoda/Grade/>  
+[Atividade4_VisEdu](Atividade4_VisEdu.md)  
 
 ## Atividade em Equipe
 
