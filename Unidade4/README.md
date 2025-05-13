@@ -15,11 +15,6 @@ Objetivo: demonstrar conhecimento no desenvolvimento de sistemas com interface g
 
 [cg-slides_u4.pdf](./cg-slides_u4.pdf "cg-slides_u4.pdf")  
 
-### 2023-11-14
-
-![aulaRabiscos_2023-11-14a](aulaRabiscos_2023-11-14a.png)  
-![aulaRabiscos_2023-11-14b](aulaRabiscos_2023-11-14b.png)  
-
 ----------
 
 ## ⏭ [Unidade 1)](../Unidade1/README.md "Unidade 1")  
