@@ -2,9 +2,9 @@
 
 ## Desafio (opcional)
 
-Como desafio deixo um trabalho opcional que se realizado vale um ponto na média.  
-O trabalho e responder a um questionário de avaliação de um TCC. Esse questionário vai conduzi-lo para partes que envolvem implementação de código.  
-Mas, ATENÇÃO, só vai valer se seguir o questionário para o *desafio*:  
+Como desafio, proponho um trabalho opcional que, se realizado, acrescentará um ponto à sua média.  
+A atividade consiste em responder a um questionário de avaliação de um TCC, que irá guiá-lo por etapas que envolvem implementação de código.  
+Atenção: o ponto extra só será concedido se todas as instruções do questionário forem seguidas, e avançar no questionário para a parte do *desafio*:  
 ![image_TCC_questionario](image_TCC_questionario.png)  
 
 <https://docs.google.com/forms/d/e/1FAIpQLSfp7hZ6R7X6F13iZ59K1GvXUPwQq6xV5yRFYZ4sZp_rEqTX3w/viewform>  
