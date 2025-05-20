@@ -1,5 +1,14 @@
 # Unidade 4: Conceitos Básicos 3D - atividade  
 
+## Desafio (opcional)
+
+Como desafio deixo um trabalho opcional que se realizado vale um ponto na média.  
+O trabalho e responder a um questionário de avaliação de um TCC. Esse questionário vai conduzi-lo para partes que envolvem implementação de código.  
+Mas, ATENÇÃO, só vai valer se seguir o questionário para o *desafio*:  
+![image_TCC_questionario](image_TCC_questionario.png)  
+
+<https://docs.google.com/forms/d/e/1FAIpQLSfp7hZ6R7X6F13iZ59K1GvXUPwQq6xV5yRFYZ4sZp_rEqTX3w/viewform>  
+
 ## Atividade Individual
 
 \[peso: 2,0] Esta atividade é para ser desenvolvida individualmente pelo aluno, no caso, não é em equipe. Essa atividade serve para reforçar/praticar os conceitos relacionados a Unidade 4.  
