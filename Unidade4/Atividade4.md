@@ -7,7 +7,7 @@ A atividade consiste em responder a um questionário de avaliação de um TCC, q
 Atenção: o ponto extra só será concedido se todas as instruções do questionário forem seguidas, e avançar no questionário para a parte do *desafio*:  
 ![image_TCC_questionario](image_TCC_questionario.png)  
 
-*ATENÇÃO*: enviar e-mail para dalton@furb.br avisando que fez a atividade.  
+**ATENÇÃO**: enviar e-mail para dalton@furb.br avisando que fez a atividade.  
 
 Prazo: 20/06/2025.  
 
